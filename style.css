@@ -1,0 +1,13 @@
+.heading{
+    font-family: 'Rubik Moonrocks';
+    font-size: 35;
+}
+body{
+    background:url("https://media.istockphoto.com/id/1173422519/photo/outer-space-universe-nebula-stars-star-cluster-blue-purple-pink-bright-astronomy-science.jpg?s=612x612&w=0&k=20&c=EbnAjTmCHibkOry_Ip5j2wVFjQSu6WVRNbgklxRton0=");
+    background-size: cover;
+    color: white;
+}
+
+#noj{
+    font-family: 'Rubik Moonrocks';
+}
